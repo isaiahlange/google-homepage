@@ -1,0 +1,12 @@
+#header {
+	position: absolute-top;
+	display: inline;
+}
+
+.menu .right {
+	float: right;
+}
+
+.menu .left {
+	float: left;
+}
